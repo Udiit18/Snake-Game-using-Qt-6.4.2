@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/Audio">
+        <file>Audio/eat.mp3</file>
+        <file>Audio/up.mp3</file>
+    </qresource>
+    <qresource prefix="/Images">
+        <file>Images/apple.png</file>
+        <file>Images/bg - Copy.jpg</file>
+        <file>Images/head.png</file>
+        <file>Images/headDown.png</file>
+        <file>Images/headLeft.png</file>
+        <file>Images/headup.png</file>
+        <file>Images/left-right.png</file>
+        <file>Images/leftUp-downRight.png</file>
+        <file>Images/PlayBackground.png</file>
+        <file>Images/rightUp-downLeft.png</file>
+        <file>Images/tail.png</file>
+        <file>Images/tailDown.png</file>
+        <file>Images/tailLeft.png</file>
+        <file>Images/tailUp.png</file>
+        <file>Images/up-down.png</file>
+        <file>Images/upLeft-rightDown.png</file>
+        <file>Images/upRight-leftDown.png</file>
+    </qresource>
+</RCC>
